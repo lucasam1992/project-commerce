@@ -44,7 +44,9 @@ O objetivo desse projeto foi praticar o uso do MongoDB através de um banco cham
 
 3° Ainda dentro do terminal digite `mongo` <br />
 
-4° Execute os comandos encontrados na pasta `challenges/desafioXX.js` <br />
+4° `use commerce` - para acessar o banco <br />
+
+5° Execute os comandos encontrados na pasta `challenges/desafioXX.js` <br />
 
 ## Autor 
 
